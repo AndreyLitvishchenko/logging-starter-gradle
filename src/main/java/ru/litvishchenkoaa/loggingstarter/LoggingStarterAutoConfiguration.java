@@ -1,4 +1,4 @@
-package ru.litvishchenkoaa;
+package ru.litvishchenkoaa.loggingstarter;
 
 public class LoggingStarterAutoConfiguration {
 
